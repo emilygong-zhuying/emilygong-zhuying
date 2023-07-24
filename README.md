@@ -2,11 +2,11 @@
 
 I'm a senior at UCLA where I study Math, CS, and Linguistics. I'm interested in Data Science, Business Analytics, and Opinion Dynamics Research. I'm the president of the Data Science Union on campus and I work at the Data Science Center as the project manager and consultant.
 
-- 🔭 I’m currently working on: finishing up my degree!
-- 🔬 My top skills are Python, 
-- 🌱 I’m currently learning: Rust! It's a pretty slow process but I'm getting there
+- 🔭 I’m currently working on: Opinion Dynamics Research with the CAM REU!
+- 🔬 My top skills are Python, ML Modeling, and Tableau.
+- 🌱 I’m currently learning: Swift!
 - 📫 How to reach me: **[zgong24@g.ucla.edu](mailto:zgong24@g.ucla.edu)**
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm allergic to mango 🥭
 
 ## 🔧 Technologies & Tools
 
