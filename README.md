@@ -5,7 +5,7 @@ I'm a senior at UCLA where I study Math, CS, and Linguistics. I'm interested in 
 - 🔭 I’m currently working on: Opinion Dynamics Research with the CAM REU!
 - 🔬 My top skills are Python, ML Modeling, and Tableau.
 - 🌱 I’m currently learning: Swift!
-- 📫 How to reach me: **[zgong24@g.ucla.edu](mailto:zgong24@g.ucla.edu)**
+- 📫 How to reach me: **[egong2000@gmail.com](mailto:egong2000@gmail.com)**
 - ⚡ Fun fact: I'm allergic to mango 🥭
 
 ## 🔧 Technologies & Tools
