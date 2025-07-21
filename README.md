@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a senior at UCLA where I study Math, CS, and Linguistics. I'm interested in Data Science, Business Analytics, and Opinion Dynamics Research. I'm the president of the Data Science Union on campus and I work at the Data Science Center as the project manager and consultant.
+I'm a recent graduate from UCLA where I study Math, CS, and Linguistics. I'm interested in Data Science, Business Analytics, and Opinion Dynamics Research.
 
 - 🔭 I’m currently working on: Opinion Dynamics Research with the CAM REU!
 - 🔬 My top skills are Python, ML Modeling, and Tableau.
-- 🌱 I’m currently learning: Swift!
+- 🌱 I’m currently learning: Figma design + Front end!
 - 📫 How to reach me: **[egong2000@gmail.com](mailto:egong2000@gmail.com)**
 - ⚡ Fun fact: I'm allergic to mango 🥭
 
